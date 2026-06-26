@@ -8,7 +8,7 @@
   "server": {
     "ip": "kralliksmpusak.aternos.me",
     "port": 30594,
-    "version": "1.21.11",
+    "version": false,
     "try-creative": false
   },
   "position": {
